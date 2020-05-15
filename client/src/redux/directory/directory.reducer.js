@@ -21,7 +21,6 @@ const INITIAL_STATE = {
     {
       title: 'womens',
       imageUrl: './images/womens.png',
-      size: 'large',
       id: 4,
       linkUrl: 'shop/womens',
     },
